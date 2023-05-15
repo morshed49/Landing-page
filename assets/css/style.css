@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.bg-color{
+    background: #060429;
+    height: 450px;
+    border-bottom-left-radius: 490px 230px;
+}
+.header-box{
+    margin-left: -10px;
+}
+.header-img img{
+    height: 400px;
+    width: 400px;
+    border-bottom-left-radius: 250px 100px;
+    position: absolute;
+    top: 0 ;
+    right: 0;
+}
+.header-info h4{
+    color: white;
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 600;
+
+}
+.header-info p{
+    color: white;
+    padding: 0 460px 0 0;
+}
+.header-info .header-btn{
+    background-color: white;
+}
+/* About Me */
+.about-me{
+    height: 450px;
+    margin: 60px 0;
+    background: #050529;
+    text-align: justify;
+    padding: 50px 30px 50px 80px;
+    border-top-right-radius: 900px 250px;
+}
+.about-me h2{
+    margin: 50px 0 30px 0;
+} 
+.about-me p{
+    padding-right: 30px;
+}
+.hero-section{
+    padding: 143px 0;
+
+}
+.hero{
+    text-align: right;
+
+}
+.img-round{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.hero-section span{
+    font-weight: 700;
+}
+.hero-section p{
+    padding: 0 20px 0 0;
+}
+.hero-section .gap{
+    margin-bottom: 10px;
+
+}
+/* Footer Section */
+
+.footer-section{
+    background: #050529;
+    padding: 60px 0;
+    margin-top: -125px;
+}
+.content-box{
+    text-align: center;
+}
+.content-box p{
+    color: white;
+    padding: 0 120px;
+}
+.content-box h2{
+    color: white;
+    margin: 20px 0 0px 0;
+
+}
